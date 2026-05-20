@@ -1,6 +1,6 @@
 # wordle-clone
 
-A simple Wordle clone I built to practice frontend development. Runs entirely in the browser, it has no frameworks, no dependencies, just one HTML file.
+A simple Wordle clone I built to practice frontend development. Runs entirely in the browser, it has no frameworks, no dependencies, just one HTML file. The entire project was made using only HTML, CSS and JavaScript
 
 ##How to play:
 Guess the 5-letter word in 6 tries. After each guess the tiles tell you how close you were:
