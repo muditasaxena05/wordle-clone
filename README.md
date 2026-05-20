@@ -1,5 +1,5 @@
 # wordle-clone
-A word guessing game built using HTML, CSS, and JavaScript. 
+A word guessing game built using HTML, CSS, and JavaScript. <br>
 A simple Wordle clone I built to practice frontend development. Runs entirely in the browser, it has no frameworks, no dependencies, just one HTML file.
 
 How to play:
